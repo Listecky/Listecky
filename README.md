@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Listecky
-- 👀 I’m interested in extreme sports and programming :) 
-- 🌱 I’m currently learning python at advanced level 
-- 💞️ I’m looking to collaborate on python scripting
 - 📫 You can reach me via mail: listwan13@gmail.com
 
 <!---
